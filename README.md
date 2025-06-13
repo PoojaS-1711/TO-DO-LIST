@@ -20,6 +20,10 @@ This app allows users to add, edit, delete, categorize, and prioritize their tas
 
 ## 🚀 Getting Started
 
+Here is the Final Web page Link :
+https://to-do-list-5uyjo9ykpsbyhgouhktmdy.streamlit.app/
+
+
 ### 📦 Prerequisites
 
 Make sure you have Python and Streamlit installed:
@@ -27,5 +31,3 @@ Make sure you have Python and Streamlit installed:
 ```bash
 pip install streamlit
 
-Here is the Final Web page Link :
-https://to-do-list-5uyjo9ykpsbyhgouhktmdy.streamlit.app/
